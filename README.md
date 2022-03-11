@@ -1,1 +1,1 @@
-# kurual-nestjs-api
+# kurula-nestjs-api
